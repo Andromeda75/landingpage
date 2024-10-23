@@ -27,7 +27,7 @@ const Contactanos = () => {
           </div>
           <div className="contactanos-image">
             <img 
-              src="imagenes/gato.png" 
+              src="imagenes/D4.png" 
               alt="Misión"
               className="nosotros-img" 
             />

@@ -18,7 +18,7 @@ const Nosotros = () => {
           </div>
           <div className="nosotros-image">
             <img 
-              src="imagenes/scoby.png" 
+              src="imagenes/D2.png" 
               alt="Misión"
               className="nosotros-img" 
             />

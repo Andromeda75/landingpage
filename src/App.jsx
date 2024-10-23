@@ -7,6 +7,7 @@ import Hero from './components/Hero';
 import Mascotas from './components/Mascotas';
 import Nosotros from './components/Nosotros'; // Ajusta la ruta según sea necesario
 import Contactanos from './components/Contactanos';
+import Pedidos from './components/Pedidos';
 import Footer from './components/Footer';
 import './diseño.css';
 import './App.css'
@@ -28,6 +29,7 @@ function App() {
           <Route path="/" element={<><Hero /><Mascotas /></>} />
           <Route path="/nosotros" element={<Nosotros />} />
           <Route path="/contactanos" element={<Contactanos />} />
+          <Route path="/pedidos" element={<Pedidos />} />
         </Routes>
         <Footer />
       </div>

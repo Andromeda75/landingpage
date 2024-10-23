@@ -8,7 +8,7 @@ const Hero = () => {
         <p className="text-lg">Pet Society es un lugar mágico donde las personas puedan conocer a su amigo fiel. Este lugar de encuentro siempre asegura una sonrisa y una adopción.</p>
       </div>
       <div className="hero-image">
-        <img src="imagenes/jake y finn.jfif" alt="Adopta un Amigo" className="max-w-sm rounded-lg border-4 border-[#c8b392]" />
+        <img src="imagenes/D1.png" alt="Adopta un Amigo" className="max-w-sm rounded-lg border-4 border-[#c8b392]" />
       </div>
     </section>
   );
